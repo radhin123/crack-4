@@ -61,12 +61,9 @@ def jalan(z):
 
 #########LOGO#########
 logo = """
-______    _ _ 
-|  ____|  | | |
-| |__ __ _| | |
-|  __/ _` | | |
-| | | (_| | | |
-|_|  \__,_|_|_|
+🌷 radhinallhaady@gmail.com 🌷
+🌷 anonymousindonesiaanonymousind@gmail.com 🌷
+🌷Recod by radhin mods WhatsApp 🌷
 """
 
 back = 0
