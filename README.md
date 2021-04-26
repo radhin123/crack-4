@@ -6,7 +6,7 @@ git clone https://github.com/radhin123/crack-4
 
 cd 
 
-cd crack4
+cd crack-4
 
 python2 dayana01.py
 
